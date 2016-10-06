@@ -1,0 +1,16 @@
+Hadoop	{file1.txt:1},{file2.txt:1},{file0.txt:3}
+Oh	{file2.txt:1}
+Peter	{file0.txt:1}
+Yellow	{file1.txt:1}
+a	{file2.txt:1}
+an	{file0.txt:1}
+as	{file1.txt:2}
+be	{file1.txt:1}
+can	{file1.txt:1}
+elephant	{file0.txt:1}
+fellow	{file2.txt:1}
+is	{file2.txt:1},{file0.txt:3},{file1.txt:1}
+learning	{file0.txt:1}
+scalable	{file0.txt:1}
+what	{file2.txt:1}
+yellow	{file2.txt:1}
