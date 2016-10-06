@@ -1,0 +1,3 @@
+Hadoop is an elephant
+Hadoop is scalable
+Peter is learning Hadoop

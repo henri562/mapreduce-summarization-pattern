@@ -25,7 +25,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 /**
  *
- * @author Henry
+ * @author Mengchuan Lin
  */
 
 
