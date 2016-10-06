@@ -27,8 +27,6 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
  *
  * @author Mengchuan Lin
  */
-
-
 public class StudentGradeAvg {
         
     public static class GradeAvgMapper extends Mapper<Object, Text, Text, Text> {
